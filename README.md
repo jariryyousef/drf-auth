@@ -1,0 +1,1 @@
+https://github.com/jariryyousef/drf-auth/pull/1
